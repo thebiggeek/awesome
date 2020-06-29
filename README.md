@@ -3,7 +3,7 @@ The Inspiration for this GitHub Collection came from the [Awesome](https://githu
 
 ## Contents
 - [Movies](#movies)
-- [Fountain Pens & Inks](#fountain-pens)
+- [Fountain Pens & Inks](#fountain-pens-and-inks)
 - [Pencils](#pencils)
 - [Tools](#tools)
 
