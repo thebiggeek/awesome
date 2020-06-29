@@ -59,6 +59,13 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 ## Fountain Pens and Inks
 I am really fond of using good stationery, and the pleasure of ink on paper is smoething that for me can't be explained. While I have engaged in many a debate on useful is an expensive pen today - when you write most of the stuff on a computer, but the pelasure of being able to draw and write down your idea is unexplainable. I now have a sizeable collection of fountain pens, and this is a link to some of the amazing fountain pens and Inks, that I use (have in my collection) and those I am looking forward to getting my hands on. Some of these are vintage, and some standard day to day variants.
 
+### Pens
+| Name        | Manufacturer           | Link  | Nib Material | Nib Size |
+|:--------------------------|:---------------------------------------| :-------------------|:--------------|:----|
+|  Professional Gear Slim 'Purple Cosmos' | Sailor Pens Japan | https://sailorpen.co.uk/collection/professional-gear-series/ | 14K Gold | Fine | 
+
+### Inks
+
 ## Pencils
 Don't you love New York in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly-sharpened pencils if I knew your name and address. On the other hand, this not knowing has its charms. _To Kathleen Kelly_ in [You've Got Mail](https://en.wikiquote.org/wiki/You've_Got_Mail), is a scene I vivdly remember and my desk always has some sharpened pencils, over the years I have gotten more spoilt for choices and [The Blackwing602's](https://blackwing602.com) havee become my goto pencils. I also use a number of Mechanical Pencils, and this is a list of my favourite pencils, and ones I am saving up for to get them one day.
 
