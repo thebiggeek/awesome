@@ -74,6 +74,11 @@ I am really fond of using good stationery, and the pleasure of ink on paper is s
 ### Pens I am looking to Buy
 | Name | Manufacturer |
 |:-------------------------------|:--------------------------|
+|[Emperor Gold Fish](https://www.pilot-namiki.com/en/collection/emperor/gold-fish/) | Pilot Pens Japan | 
+|[Meisterstück Le Petit Prince Classique Fountain Pen](https://www.montblanc.com/en-shop/collection/writing-instruments/meisterstueck/118056-meisterstueck-le-petit-prince-classique-fountain-pen.html) | Montblanc | 
+|[Writer Aka-tamenuri](http://www.nakaya.org/en/review.aspx?id=192&type=body) | Nakaya | 
+|[1010 Time Keeper](https://www.williampenn.net/writing/writing-instruments/limited-edition/1010-timekeeper-fountain-pen.html) | Caran d'ache|
+|[Herzstück 1929](https://www.pelikan.com/pulse/Pulsar/en_US_INTL.FWI.displayShop.260903./limited-edition-herzstueck-1929) | Pelikan |
 
 ## Pencils
 Don't you love New York in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly-sharpened pencils if I knew your name and address. On the other hand, this not knowing has its charms. _To Kathleen Kelly_ in [You've Got Mail](https://en.wikiquote.org/wiki/You've_Got_Mail), is a scene I vivdly remember and my desk always has some sharpened pencils, over the years I have gotten more spoilt for choices and [The Blackwing602's](https://blackwing602.com) havee become my goto pencils. I also use a number of Mechanical Pencils, and this is a list of my favourite pencils, and ones I am saving up for to get them one day.
