@@ -63,9 +63,7 @@ I am really fond of using good stationery, and the pleasure of ink on paper is s
 | Name        | Manufacturer           |Nib Material | Nib Size |
 |:-------------------------------|:--------------------------|:----------|:----------|
 |  [Professional Gear Slim 'Purple Cosmos'](https://sailorpen.co.uk/collection/professional-gear-series/) | Sailor Pens Japan |  | 14K Gold | Fine | 
-
 | [Myu Black Stripe](https://www.reddit.com/r/fountainpens/comments/9qe8nb/grail_pen_day_pilot_myu_black_stripe/) | Pilot Pens Japan | Stainless Steel | Fine | 
-
 | [Bromine](http://www.constellations88.com/bromine.html) | Constellations 88 India | 14k Gold | Fine | 
 | [Custom 823](https://www.pilotpen.eu/en/fine-writing/custom-823/custom-823-fine-nib.html) | Pilot Pens Japan | 14K Gold | Fine | 
 | [Vanishing Point Raden Stripe](https://www.gouletpens.com/products/pilot-vanishing-point-fountain-pen-raden-stripe) | Pilot Pens Japan  | 18K Gold | Medium |
