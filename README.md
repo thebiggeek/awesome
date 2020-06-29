@@ -10,11 +10,12 @@ The Inspiration for this GitHub Collection came from the [Awesome](https://githu
 ## Movies
 Great Cinema that I would not mind watching again. IN conversations with people I often refer to a movie, a line or a scene and talk aobut how it has impacted me, or what I really liked about it, it could be the way the scene is setup, the tiles done, or the overall story. This is just a random collection of movies that I realy like and woould not mind watching again. I hope you will enjoy watching these movies too
 
-- [English](#english-movies)
-- [Hindi](#hindi-movies)
-- [Marathi](#marathi-movies)
-- [Telgu](#telgu-movies)
-- [Punjabi](#punjabi-movies)
+- [English](#english)
+- [Hindi](#hindi)
+- [Marathi](#marathi)
+- [Telgu](#telgu)
+- [Punjabi](#punjabi)
+- [Tamil](#tamil)
 
 ### English
 | Name        | IMDB Link           | Streaming On  |
@@ -23,23 +24,37 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 | The Liftboy | https://www.imdb.com/title/tt6937368 | Netflix|
 | Come As You Are | https://www.imdb.com/title/tt6722726 | Netflix|
 | The Banker | https://www.imdb.com/title/tt6285944/ | Apple TV+|
+| What Are The Oddss | https://www.imdb.com/title/tt12327140/ | Netflix |
+| Ship of Theseus | https://www.imdb.com/title/tt1773764/ | Youtube|
 
 ### Hindi
 | Name        | IMDB Link           | Streaming On  |
 |:----------------------------------------------------|:---------------------------------------| :----------|
 | Chaman Bahar| https://www.imdb.com/title/tt8747450/ | Netflix|
 | Thackeray |https://www.imdb.com/title/tt7777196/ | Netflix |
-| Khosla Ka Ghosla | https://www.imdb.com/title/tt0466460/ | Netflix| 
+| Khosla Ka Ghosla | https://www.imdb.com/title/tt0466460/ | Netflix|
+| Photograph | https://www.imdb.com/title/tt7778680/ | Amazon Prime |  
+| Article 15 | https://www.imdb.com/title/tt10324144/ | Netflix |
+| Made in China | https://www.imdb.com/title/tt8983180/ | Netflix |
+| Brij Mohan Amar Rahe | https://www.imdb.com/title/tt6514010/ | Netflix |
+
 
 ### Marathi
 | Name        | IMDB Link           | Streaming On  |
 |:----------------------------------------------------|:---------------------------------------| :----------|
 | Harishchandrachi Factory | https://www.imdb.com/title/tt1524539/ | Netflix | 
+| Girlz | https://www.imdb.com/title/tt11157772/ | Amazon Prime |
 
 ### Telgu
 | Name        | IMDB Link           | Streaming On  |
 |:----------------------------------------------------|:---------------------------------------| :----------|
 | Oh Baby | https://www.imdb.com/title/tt9348296/ | Netflix |
+
+### Tamil
+| Name        | IMDB Link           | Streaming On  |
+|:----------------------------------------------------|:---------------------------------------| :----------|
+| Super Deluxe | https://www.imdb.com/title/tt7019942/ | Netflix|
+
 
 ## Fountain Pens & Inks
 I am really fond of using good stationery, and the pleasure of ink on paper is smoething that for me can't be explained. While I have engaged in many a debate on useful is an expensive pen today - when you write most of the stuff on a computer, but the pelasure of being able to draw and write down your idea is unexplainable. I now have a sizeable collection of fountain pens, and this is a link to some of the amazing fountain pens and Inks, that I use (have in my collection) and those I am looking forward to getting my hands on. Some of these are vintage, and some standard day to day variants.
