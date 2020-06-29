@@ -3,7 +3,7 @@ The Inspiration for this GitHub Collection came from the [Awesome](https://githu
 
 ## Contents
 - [Movies](#movies)
-- [Fountain Pens & Inks](#fountain-pens-and-inks)
+- [Fountain Pens and Inks](#fountain-pens-and-inks)
 - [Pencils](#pencils)
 - [Tools](#tools)
 
@@ -56,7 +56,7 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 | Super Deluxe | https://www.imdb.com/title/tt7019942/ | Netflix|
 
 
-## Fountain Pens & Inks
+## Fountain Pens and Inks
 I am really fond of using good stationery, and the pleasure of ink on paper is smoething that for me can't be explained. While I have engaged in many a debate on useful is an expensive pen today - when you write most of the stuff on a computer, but the pelasure of being able to draw and write down your idea is unexplainable. I now have a sizeable collection of fountain pens, and this is a link to some of the amazing fountain pens and Inks, that I use (have in my collection) and those I am looking forward to getting my hands on. Some of these are vintage, and some standard day to day variants.
 
 ## Pencils
