@@ -5,7 +5,7 @@ The Inspiration for this GitHub Collection came from the [Awesome](https://githu
 - [Movies](#movies)
 - [Fountain Pens](#fountain-pens)
 
-### Movies
+## Movies
 Great Cinema that I would not mind watching again. IN conversations with people I often refer to a movie, a line or a scene and talk aobut how it has impacted me, or what I really liked about it, it could be the way the scene is setup, the tiles done, or the overall story. This is just a random collection of movies that I realy like and woould not mind watching again. I hope you will enjoy watching these movies too
 
 - [English](#english-movies)
@@ -14,7 +14,7 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 - [Telgu](#telgu-movies)
 - [Punjabi](#punjabi-movies)
 
-### English
+## English
 | Name        | IMDB Link           | Streaming On  |
 |:----------------------------------------------------|:---------------------------------------| :----------|
 | The Dictator |  https://www.imdb.com/title/tt1645170/ | Netflix|
