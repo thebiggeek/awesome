@@ -17,7 +17,7 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 - [Punjabi](#punjabi)
 - [Tamil](#tamil)
 
-### English
+## English
 | Name        | IMDB Link           | Streaming On  |
 |:----------------------------------------------------|:---------------------------------------| :----------|
 | The Dictator |  https://www.imdb.com/title/tt1645170/ | Netflix|
@@ -27,7 +27,7 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 | What Are The Oddss | https://www.imdb.com/title/tt12327140/ | Netflix |
 | Ship of Theseus | https://www.imdb.com/title/tt1773764/ | Youtube|
 
-### Hindi
+## Hindi
 | Name        | IMDB Link           | Streaming On  |
 |:----------------------------------------------------|:---------------------------------------| :----------|
 | Chaman Bahar| https://www.imdb.com/title/tt8747450/ | Netflix|
@@ -39,18 +39,18 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 | Brij Mohan Amar Rahe | https://www.imdb.com/title/tt6514010/ | Netflix |
 
 
-### Marathi
+## Marathi
 | Name        | IMDB Link           | Streaming On  |
 |:----------------------------------------------------|:---------------------------------------| :----------|
 | Harishchandrachi Factory | https://www.imdb.com/title/tt1524539/ | Netflix | 
 | Girlz | https://www.imdb.com/title/tt11157772/ | Amazon Prime |
 
-### Telgu
+## Telgu
 | Name        | IMDB Link           | Streaming On  |
 |:----------------------------------------------------|:---------------------------------------| :----------|
 | Oh Baby | https://www.imdb.com/title/tt9348296/ | Netflix |
 
-### Tamil
+## Tamil
 | Name        | IMDB Link           | Streaming On  |
 |:----------------------------------------------------|:---------------------------------------| :----------|
 | Super Deluxe | https://www.imdb.com/title/tt7019942/ | Netflix|
