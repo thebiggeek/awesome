@@ -1,0 +1,6 @@
+# background
+I learnt HTML back in the early 90's when the Internet was happening, I even owned a Web Development company back then, but soon realised HTML was not something I could depend on for my own documentation. While it did make things easier for me to present visually (and I have never been fond of a wordprocessor, ever since I learnt HTML) - It was leaving a void for me to create a documentation workflow that I Would follow.
+
+A few months back I started looking at Mark Down (and GitHub style Mark Down) as a way out of this, the more I researched, I am coming to believe that Mark Down will solve some of my challenges. Now I needed something to do with Mark Down so as to understand how I woould go about changing my ways. 
+
+I thought, why not create a few lists, lists that I don't mind sharing publicly and play with formtting, presentation and collation of this data, and this is what started with the Awesome List. While I know the list will become longer and longer over time, I may end up splitting it into multiple files, but this is just a start.
