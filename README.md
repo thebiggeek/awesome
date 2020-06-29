@@ -3,7 +3,9 @@ The Inspiration for this GitHub Collection came from the [Awesome](https://githu
 
 ## Contents
 - [Movies](#movies)
-- [Fountain Pens](#fountain-pens)
+- [Fountain Pens & Inks](#fountain-pens)
+- [Pencils](#pencils)
+- [Tools](#tools)
 
 ## Movies
 Great Cinema that I would not mind watching again. IN conversations with people I often refer to a movie, a line or a scene and talk aobut how it has impacted me, or what I really liked about it, it could be the way the scene is setup, the tiles done, or the overall story. This is just a random collection of movies that I realy like and woould not mind watching again. I hope you will enjoy watching these movies too
@@ -14,7 +16,7 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 - [Telgu](#telgu-movies)
 - [Punjabi](#punjabi-movies)
 
-## English
+### English
 | Name        | IMDB Link           | Streaming On  |
 |:----------------------------------------------------|:---------------------------------------| :----------|
 | The Dictator |  https://www.imdb.com/title/tt1645170/ | Netflix|
@@ -38,3 +40,12 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 | Name        | IMDB Link           | Streaming On  |
 |:----------------------------------------------------|:---------------------------------------| :----------|
 | Oh Baby | https://www.imdb.com/title/tt9348296/ | Netflix |
+
+## Fountain Pens & Inks
+I am really fond of using good stationery, and the pleasure of ink on paper is smoething that for me can't be explained. While I have engaged in many a debate on useful is an expensive pen today - when you write most of the stuff on a computer, but the pelasure of being able to draw and write down your idea is unexplainable. I now have a sizeable collection of fountain pens, and this is a link to some of the amazing fountain pens and Inks, that I use (have in my collection) and those I am looking forward to getting my hands on. Some of these are vintage, and some standard day to day variants.
+
+## Pencils
+Don't you love New York in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly-sharpened pencils if I knew your name and address. On the other hand, this not knowing has its charms. _To Kathleen Kelly_ in [You've Got Mail](https://en.wikiquote.org/wiki/You've_Got_Mail), is a scene I vivdly remember and my desk always has some sharpened pencils, over the years I have gotten more spoilt for choices and [The Blackwing602's](https://blackwing602.com) havee become my goto pencils. I also use a number of Mechanical Pencils, and this is a list of my favourite pencils, and ones I am saving up for to get them one day.
+
+## Tools
+Over the years I have become dependent on technology and some of these tools are what I use to manage my day to day work on a personal level, some I am totally dependent on, and some I am still playing with to find out if these are what I can use for improving my personal time, knowledge, and record keeping.
