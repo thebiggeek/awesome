@@ -19,7 +19,7 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 
 ## English
 | Name        | IMDB Link           | Streaming On  |
-|:----------------------------------------------------|:---------------------------------------| :----------|
+|:-------------------------------|:--------------------------|:----------|
 | The Dictator |  https://www.imdb.com/title/tt1645170/ | Netflix|
 | The Liftboy | https://www.imdb.com/title/tt6937368 | Netflix|
 | Come As You Are | https://www.imdb.com/title/tt6722726 | Netflix|
@@ -29,7 +29,7 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 
 ## Hindi
 | Name        | IMDB Link           | Streaming On  |
-|:----------------------------------------------------|:---------------------------------------| :----------|
+|:-------------------------------|:--------------------------|:----------|
 | Chaman Bahar| https://www.imdb.com/title/tt8747450/ | Netflix|
 | Thackeray |https://www.imdb.com/title/tt7777196/ | Netflix |
 | Khosla Ka Ghosla | https://www.imdb.com/title/tt0466460/ | Netflix|
@@ -41,18 +41,18 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 
 ## Marathi
 | Name        | IMDB Link           | Streaming On  |
-|:----------------------------------------------------|:---------------------------------------| :----------|
+|:-------------------------------|:--------------------------|:----------|
 | Harishchandrachi Factory | https://www.imdb.com/title/tt1524539/ | Netflix | 
 | Girlz | https://www.imdb.com/title/tt11157772/ | Amazon Prime |
 
 ## Telgu
 | Name        | IMDB Link           | Streaming On  |
-|:----------------------------------------------------|:---------------------------------------| :----------|
+|:-------------------------------|:--------------------------|:----------|
 | Oh Baby | https://www.imdb.com/title/tt9348296/ | Netflix |
 
 ## Tamil
 | Name        | IMDB Link           | Streaming On  |
-|:----------------------------------------------------|:---------------------------------------| :----------|
+|:-------------------------------|:--------------------------|:----------|
 | Super Deluxe | https://www.imdb.com/title/tt7019942/ | Netflix|
 
 
@@ -61,25 +61,29 @@ I am really fond of using good stationery, and the pleasure of ink on paper is s
 
 ### Pens
 | Name        | Manufacturer           | Link  | Nib Material | Nib Size |
-|:--------------------------|:---------------------------------------| :-------------------|:--------------|:----|
+|:-------------------------------|:--------------------------| :----------|:----------|:----------|
 |  Professional Gear Slim 'Purple Cosmos' | Sailor Pens Japan | https://sailorpen.co.uk/collection/professional-gear-series/ | 14K Gold | Fine | 
+
 | Myu Black Stripe | Pilot Pens Japan | https://www.reddit.com/r/fountainpens/comments/9qe8nb/grail_pen_day_pilot_myu_black_stripe/ | Stainless Steel | Fine | 
+
 | Bromine | Constellations 88 India | http://www.constellations88.com/bromine.html | 14k Gold | Fine | 
 | Custom 823 | Pilot Pens Japan | https://www.pilotpen.eu/en/fine-writing/custom-823/custom-823-fine-nib.html | 14K Gold | Fine | 
+
 | Vanishing Point Raden Stripe | Pilot Pens Japan | https://www.gouletpens.com/products/pilot-vanishing-point-fountain-pen-raden-stripe | 18K Gold | Medium |
+
 | 3776 Kumpoo | Platinum Pens Japan | https://www.penaddict.com/blog/2018/8/31/platinum-3776-kumpoo-fountain-pen-a-review | 14K Gold | Fine |
 
 ### Inks
 
 ### Pens I am looking to Buy
 | Name | Manufacturer | Link  |
-|:-------------|:-----------------|:----------------------|
+|:-------------------------------|:--------------------------| :----------|
 
 ## Pencils
 Don't you love New York in the fall? It makes me want to buy school supplies. I would send you a bouquet of newly-sharpened pencils if I knew your name and address. On the other hand, this not knowing has its charms. _To Kathleen Kelly_ in [You've Got Mail](https://en.wikiquote.org/wiki/You've_Got_Mail), is a scene I vivdly remember and my desk always has some sharpened pencils, over the years I have gotten more spoilt for choices and [The Blackwing602's](https://blackwing602.com) havee become my goto pencils. I also use a number of Mechanical Pencils, and this is a list of my favourite pencils, and ones I am saving up for to get them one day.
 
 | Name | Manufacturer | Link | Size / Grade | Type | 
-|:-------|:---------------|:---------------|:---------------|:---------------|
+|:-------------------------------|:--------------------------| :----------|:----------|:----------|
 | Kurutoga | Uniball Japan | https://uniballco.com/uni-products/kuru-toga/ | 0.5mm | Mechanical | 
 | 600 | Rotring | https://www.rotring.com/uk/mechanical-pencils/290-rotring-600-mechanical-pencil-3501178523096.html | 0.5 mm | Mechanical | 
 | Kerry | Pentel | https://www.pentel.com/products/sharp-kerry-mechanical-pencil | 0.5 mm | Mechanical | 
@@ -100,7 +104,7 @@ Don't you love New York in the fall? It makes me want to buy school supplies. I 
 
 ## Pencils I am looking to Buy
 | Name | Manufacturer | Year of Release | Country | 
-|:--------------------------|:--------------------------|:--------------------------|:--------------------------|
+|:-------------------------------|:--------------------------| :----------|:----------|
 | Volume 16.2 - Ada Lovelace | Blackwing 602 | 2017 | USA | 
 | Electrographic Pencil | IBM | 1960 | USA | 
 | 2558 | Tombow | | Japan | 
@@ -115,7 +119,7 @@ Don't you love New York in the fall? It makes me want to buy school supplies. I 
 Over the years I have become dependent on technology and some of these tools are what I use to manage my day to day work on a personal level, some I am totally dependent on, and some I am still playing with to find out if these are what I can use for improving my personal time, knowledge, and record keeping.
 
 | Name | Link | Quick Tips | 
-|:-----|:------|:------|
+|:-------------------------------|:--------------------------|:----------|
 | Evernote | https://evernote.com | Daily Productivity, Notes, Archives | 
 | ScanBot+ | https://scanbot.io | Mobile Phone Scanner | 
 | VSCO | https://vsco.co | Photo Editor | 
