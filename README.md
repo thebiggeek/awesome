@@ -67,7 +67,6 @@ I am really fond of using good stationery, and the pleasure of ink on paper is s
 | [Bromine](http://www.constellations88.com/bromine.html) | Constellations 88 India | 14k Gold | Fine | 
 | [Custom 823](https://www.pilotpen.eu/en/fine-writing/custom-823/custom-823-fine-nib.html) | Pilot Pens Japan | 14K Gold | Fine | 
 | [Vanishing Point Raden Stripe](https://www.gouletpens.com/products/pilot-vanishing-point-fountain-pen-raden-stripe) | Pilot Pens Japan  | 18K Gold | Medium |
-
 | [3776 Kumpoo](https://www.penaddict.com/blog/2018/8/31/platinum-3776-kumpoo-fountain-pen-a-review) | Platinum Pens Japan | 14K Gold | Fine |
 
 ### Inks
@@ -83,7 +82,6 @@ Don't you love New York in the fall? It makes me want to buy school supplies. I 
 |:-------------------------------|:--------------------------|:----------|:----------|
 | [Kurutoga](https://uniballco.com/uni-products/kuru-toga/) | Uniball Japan | 0.5mm | Mechanical | 
 | [600](https://www.rotring.com/uk/mechanical-pencils/290-rotring-600-mechanical-pencil-3501178523096.html) | Rotring | 0.5 mm | Mechanical | 
-
 | [Kerry](https://www.pentel.com/products/sharp-kerry-mechanical-pencil) | Pentel | 0.5 mm | Mechanical | 
 | [Delguard](https://www.zebrapen.com/product/delguard-mechanical-pencil/) | Zebra |  0.5 mm | Mechanical | 
 | [8900](https://www.tombow.com/en/products/pencil_8900/) | Tombow |  | HB | Wood |
