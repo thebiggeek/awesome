@@ -101,6 +101,7 @@ Don't you love New York in the fall? It makes me want to buy school supplies. I 
 | [Youva Stallion](https://www.amazon.in/Youva-Stallion-Pencil-Pencils-Rubber/dp/B01NCWZS2Q) | Navneet Pencils India  | Ultra Dark | Wood | 
 | [Noris 120](https://www.staedtler.com/intl/en/products/pencils-and-accessories/graphite-pencils/noris-120-graphite-pencil-m120/) | Staedtler | HB | Wood | 
 | [Lumograph 110](https://www.staedtler.com/intl/en/products/pencils-and-accessories/graphite-pencils/mars-lumograph-100-drawing-pencil-m100/ ) | Staedtler | HB | Wood | 
+| [Apsara Matt Magic](https://www.amazon.in/APSARA-MATT-MAGIC-EXTRA-PENCIL/dp/B077TDQMCC) | Apsra India | Extra Dark | Wood | 
 
 
 ## Pencils I am looking to Buy
@@ -119,10 +120,10 @@ Don't you love New York in the fall? It makes me want to buy school supplies. I 
 ## Tools
 Over the years I have become dependent on technology and some of these tools are what I use to manage my day to day work on a personal level, some I am totally dependent on, and some I am still playing with to find out if these are what I can use for improving my personal time, knowledge, and record keeping.
 
-| Name | Link | Quick Tips | 
+| Name | Link | Quick Tips |
 |:-------------------------------|:--------------------------|:----------|
 | Evernote | https://evernote.com | Daily Productivity, Notes, Archives | 
-| ScanBot+ | https://scanbot.io | Mobile Phone Scanner | 
+| ScanPro+ | https://scanbot.io | Mobile Phone Scanner | 
 | VSCO | https://vsco.co | Photo Editor | 
 | Luma Fusion | https://luma-touch.com/lumafusion-for-ios-2/ | Video Editing | 
 | Zoom | https://zoom.us | Video Conferencing | 
