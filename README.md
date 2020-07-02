@@ -25,7 +25,8 @@ Great Cinema that I would not mind watching again. IN conversations with people 
 | Come As You Are | https://www.imdb.com/title/tt6722726 | Netflix|
 | The Banker | https://www.imdb.com/title/tt6285944/ | Apple TV+|
 | What Are The Oddss | https://www.imdb.com/title/tt12327140/ | Netflix |
-| Ship of Theseus | https://www.imdb.com/title/tt1773764/ | Youtube|
+| Ship of Theseus | https://www.imdb.com/title/tt1773764/ | Youtube (Free) |
+| The Darjeeling Limited | https://www.imdb.com/title/tt0838221/ | Apple TV+ (Paid) / Youtube Movies (Paid) | 
 
 ## Hindi
 | Name        | IMDB Link           | Streaming On  |
